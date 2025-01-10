@@ -8,10 +8,10 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'wxd78c1302d8e3986b',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: 'abbff98bb32df9458d09d2838c08d168',
 USE_PASSAGE: 'push-deer'
   PROVINCE: '广东',
   CITY: '惠州',
