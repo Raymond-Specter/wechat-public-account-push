@@ -14,6 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: 'abbff98bb32df9458d09d2838c08d168',
 USE_PASSAGE: 'push-deer'
   PROVINCE: '广东',
+  ,
   CITY: '惠州',
 
   USERS: [
